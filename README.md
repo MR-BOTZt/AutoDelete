@@ -52,6 +52,10 @@ pip3 install -r requirements.txt
 python3 main.py<pre>
 </details>
 
+<details><summary>Heroku</summary>
+<br>
+<a href
+
 ## Support
 Join in our Support Group for help & feedback
 <br>
