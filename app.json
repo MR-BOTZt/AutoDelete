@@ -25,8 +25,8 @@
         "ADMIN": {
             "description":"Add Your User ID multiple is use space to split"
         },
-        "DB_URL": {
-            "description": "Your Mongo DB URL Obtained From mongodb.com",
+        "CHATS": {
+            "description": "ID of Chats (seperate by spaces)m",
             "value": ""
         },
         "DB_NAME":{ 
