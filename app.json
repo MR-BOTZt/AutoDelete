@@ -34,7 +34,7 @@
             "value": "pyro-botz",
             "required": false
         },
-        "START_PIC": {
+        "DATABASE_URI": {
             "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
             "value": "",
             "required": false
