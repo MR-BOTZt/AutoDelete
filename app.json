@@ -13,7 +13,7 @@
             "description": "Your API Hash From my.telegram.org ",
             "value": ""
         },
-        "FORCE_SUB": {
+        "SESSION": {
             "description": "Your force sub channel user name without [@] ",
             "value": "",
             "required": false 
