@@ -29,8 +29,8 @@
             "description": "ID of Chats (seperate by spaces)m",
             "value": ""
         },
-        "DB_NAME":{ 
-            "description":"Your Mongo DB Database Name ",
+        "TIME":{ 
+            "description":" Time in seconds ",
             "value": "pyro-botz",
             "required": false
         },
