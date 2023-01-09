@@ -22,7 +22,7 @@
             "description": "Your Bot Token From @BotFather",
             "value": ""
         },
-        "ADMIN": {
+        "WHITE_LIST": {
             "description":"Add Your User ID multiple is use space to split"
         },
         "CHATS": {
